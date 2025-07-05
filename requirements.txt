@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+langchainhub
+python-dotenv
+faiss-cpu
+sentence-transformers
+google-generativeai
+beautifulsoup4
+requests
+arxiv
+wikipedia
